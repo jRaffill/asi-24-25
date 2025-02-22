@@ -1,0 +1,165 @@
+sample-id       absolute-filepath       Country Sex     Host age        BMI
+0       $PWD/reads/ERR1091615.fastq     Netherlands     Female  40      24.39
+1       $PWD/reads/ERR1160501.fastq     Germany Male    39      23.2
+2       $PWD/reads/ERR1160663.fastq     Austria Female  25      25.1
+3       $PWD/reads/ERR1315958.fastq     Finland Female  46      0.0
+4       $PWD/reads/ERR1389653.fastq     Netherlands     Male    44      23.29
+5       $PWD/reads/ERR1389675.fastq     France  Female  33      21.67
+6       $PWD/reads/ERR1389712.fastq     Belgium Male    59      24.86
+7       $PWD/reads/ERR1389713.fastq     Belgium Male    59      24.86
+8       $PWD/reads/ERR1389847.fastq     Germany Male    61      26.09
+9       $PWD/reads/ERR1389935.fastq     Belgium Male    68      18.94
+10      $PWD/reads/ERR1417424.fastq     Netherlands     Male    54      19.66
+11      $PWD/reads/ERR1417477.fastq     Sweden  Female  38      26.95
+12      $PWD/reads/ERR1458809.fastq     Belgium Male    59      24.86
+13      $PWD/reads/ERR1458936.fastq     Denmark Female  62      22.41
+14      $PWD/reads/ERR1459034.fastq     Spain   Male    71      23.44
+15      $PWD/reads/ERR1459035.fastq     Spain   Male    71      23.44
+16      $PWD/reads/ERR1842690.fastq     France  Male    42      26.58
+17      $PWD/reads/ERR1842739.fastq     Germany Male    55      26.04
+18      $PWD/reads/ERR1843624.fastq     Sweden  Female  27      19.82
+19      $PWD/reads/ERR1843812.fastq     Sweden  Female  54      19.95
+20      $PWD/reads/ERR1854808.fastq     Germany Male    68      25.31
+21      $PWD/reads/ERR2056923.fastq     Germany Male    58      24.57
+22      $PWD/reads/ERR2057080.fastq     Sweden  Male    35      22.64
+23      $PWD/reads/ERR2091836.fastq     Belgium Male    37      30.76
+24      $PWD/reads/ERR2091912.fastq     Sweden  Male    66      27.74
+25      $PWD/reads/ERR2091929.fastq     France  Male    40      20.28
+26      $PWD/reads/ERR2091930.fastq     France  Male    40      20.28
+27      $PWD/reads/ERR2091946.fastq     France  Male    49      22.16
+28      $PWD/reads/ERR2092040.fastq     Belgium Male    31      23.77
+29      $PWD/reads/ERR365835.fastq      Finland Male    73
+30      $PWD/reads/ERR365836.fastq      Finland Male    78
+31      $PWD/reads/ERR365837.fastq      Finland Female  66
+32      $PWD/reads/ERR365838.fastq      Finland Male    69
+33      $PWD/reads/ERR365839.fastq      Finland Female  73
+34      $PWD/reads/ERR365840.fastq      Finland Male    56
+35      $PWD/reads/ERR365841.fastq      Finland Male    59
+36      $PWD/reads/ERR365842.fastq      Finland Male    51
+37      $PWD/reads/ERR365843.fastq      Finland Male    65
+38      $PWD/reads/ERR365844.fastq      Finland Female  63
+39      $PWD/reads/ERR365845.fastq      Finland Female  75
+40      $PWD/reads/ERR365846.fastq      Finland Female  70
+41      $PWD/reads/ERR365847.fastq      Finland Female  62
+42      $PWD/reads/ERR365848.fastq      Finland Male    51
+43      $PWD/reads/ERR365849.fastq      Finland Male    78
+44      $PWD/reads/ERR365850.fastq      Finland Female  66
+45      $PWD/reads/ERR365851.fastq      Finland Female  58
+46      $PWD/reads/ERR365852.fastq      Finland Male    77
+47      $PWD/reads/ERR365853.fastq      Finland Male    64
+48      $PWD/reads/ERR365854.fastq      Finland Female  60
+49      $PWD/reads/ERR365855.fastq      Finland Male    74
+50      $PWD/reads/ERR365856.fastq      Finland Male    62
+51      $PWD/reads/ERR365857.fastq      Finland Male    67
+52      $PWD/reads/ERR365858.fastq      Finland Female  58
+53      $PWD/reads/ERR365859.fastq      Finland Male    56
+54      $PWD/reads/ERR365860.fastq      Finland Female  73
+55      $PWD/reads/ERR365861.fastq      Finland Male    55
+56      $PWD/reads/ERR365862.fastq      Finland Male    74
+57      $PWD/reads/ERR365863.fastq      Finland Female  70
+58      $PWD/reads/ERR365864.fastq      Finland Female  65
+59      $PWD/reads/ERR365865.fastq      Finland Female  64
+60      $PWD/reads/ERR365866.fastq      Finland Male    57
+61      $PWD/reads/ERR365867.fastq      Finland Female  52
+62      $PWD/reads/ERR365868.fastq      Finland Male    66
+63      $PWD/reads/ERR365869.fastq      Finland Male    75
+64      $PWD/reads/ERR365870.fastq      Finland Female  61
+65      $PWD/reads/ERR365871.fastq      Finland Male    56
+66      $PWD/reads/ERR365872.fastq      Finland Female  68
+67      $PWD/reads/ERR365873.fastq      Finland Male    57
+68      $PWD/reads/ERR365874.fastq      Finland Male    63
+69      $PWD/reads/ERR365875.fastq      Finland Female  61
+70      $PWD/reads/ERR365876.fastq      Finland Female  67
+71      $PWD/reads/ERR365877.fastq      Finland Female  64
+72      $PWD/reads/ERR365878.fastq      Finland Female  75
+73      $PWD/reads/ERR365879.fastq      Finland Male    68
+74      $PWD/reads/ERR365880.fastq      Finland Male    62
+75      $PWD/reads/ERR365881.fastq      Finland Female  54
+76      $PWD/reads/ERR365882.fastq      Finland Female  55
+77      $PWD/reads/ERR365883.fastq      Finland Male    71
+78      $PWD/reads/ERR365884.fastq      Finland Male    67
+79      $PWD/reads/ERR365885.fastq      Finland Female  58
+80      $PWD/reads/ERR365886.fastq      Finland Female  67
+81      $PWD/reads/ERR365887.fastq      Finland Male    69
+82      $PWD/reads/ERR365888.fastq      Finland Female  66
+83      $PWD/reads/ERR365889.fastq      Finland Male    71
+84      $PWD/reads/ERR365890.fastq      Finland Male    58
+85      $PWD/reads/ERR365891.fastq      Finland Male    64
+86      $PWD/reads/ERR365892.fastq      Finland Male    63
+87      $PWD/reads/ERR365893.fastq      Finland Female  56
+88      $PWD/reads/ERR365894.fastq      Finland Female  69
+89      $PWD/reads/ERR365895.fastq      Finland Female  67
+90      $PWD/reads/ERR365896.fastq      Finland Female  66
+91      $PWD/reads/ERR365897.fastq      Finland Male    71
+92      $PWD/reads/ERR365898.fastq      Finland Male    70
+93      $PWD/reads/ERR365899.fastq      Finland Female  64
+94      $PWD/reads/ERR365900.fastq      Finland Female  62
+95      $PWD/reads/ERR365901.fastq      Finland Female  63
+96      $PWD/reads/ERR365902.fastq      Finland Female  68
+97      $PWD/reads/ERR365903.fastq      Finland Female  59
+98      $PWD/reads/ERR365904.fastq      Finland Female  57
+99      $PWD/reads/ERR365905.fastq      Finland Male    66
+100     $PWD/reads/ERR365906.fastq      Finland Male    71
+101     $PWD/reads/ERR365907.fastq      Finland Female  58
+102     $PWD/reads/ERR365908.fastq      Finland Male    53
+103     $PWD/reads/SRR5100584_1.fastq   Italy   Female  22      22.2
+104     $PWD/reads/SRR5100584_2.fastq   Italy   Female  22      22.2
+105     $PWD/reads/SRR5100589_1.fastq   Italy   Female  24      20.6
+106     $PWD/reads/SRR5100589_2.fastq   Italy   Female  24      20.6
+107     $PWD/reads/SRR5100590_1.fastq   Italy   Female  24      18.1
+108     $PWD/reads/SRR5100590_2.fastq   Italy   Female  24      18.1
+109     $PWD/reads/SRR5100591_1.fastq   Italy   Female  18      21.4
+110     $PWD/reads/SRR5100591_2.fastq   Italy   Female  18      21.4
+111     $PWD/reads/SRR5100593_1.fastq   Italy   Female  21      21.3
+112     $PWD/reads/SRR5100593_2.fastq   Italy   Female  21      21.3
+113     $PWD/reads/SRR5100595_1.fastq   Italy   Female  41      21.0
+114     $PWD/reads/SRR5100595_2.fastq   Italy   Female  41      21.0
+115     $PWD/reads/SRR5100596_1.fastq   Italy   Female  20      19.1
+116     $PWD/reads/SRR5100596_2.fastq   Italy   Female  20      19.1
+117     $PWD/reads/SRR5100597_1.fastq   Italy   Female  26      26.0
+118     $PWD/reads/SRR5100597_2.fastq   Italy   Female  26      26.0
+119     $PWD/reads/SRR5100598_1.fastq   Italy   Female  19      19.5
+120     $PWD/reads/SRR5100598_2.fastq   Italy   Female  19      19.5
+121     $PWD/reads/SRR5100599_1.fastq   Italy   Female  30      19.8
+122     $PWD/reads/SRR5100599_2.fastq   Italy   Female  30      19.8
+123     $PWD/reads/SRR6024843_1.fastq   Italy   Female  41      22.2
+124     $PWD/reads/SRR6024843_2.fastq   Italy   Female  41      22.2
+125     $PWD/reads/SRR6024844_1.fastq   Italy   Female  44      21.4
+126     $PWD/reads/SRR6024844_2.fastq   Italy   Female  44      21.4
+127     $PWD/reads/SRR6024845_1.fastq   Italy   Female  49      19.1
+128     $PWD/reads/SRR6024845_2.fastq   Italy   Female  49      19.1
+129     $PWD/reads/SRR6024846_1.fastq   Italy   Female  46      24.6
+130     $PWD/reads/SRR6024846_2.fastq   Italy   Female  46      24.6
+131     $PWD/reads/SRR6024847_1.fastq   Italy   Female  55      24.4
+132     $PWD/reads/SRR6024847_2.fastq   Italy   Female  55      24.4
+133     $PWD/reads/SRR6024848_1.fastq   Italy   Female  51      23.1
+134     $PWD/reads/SRR6024848_2.fastq   Italy   Female  51      23.1
+135     $PWD/reads/SRR6024849_1.fastq   Italy   Female  62      22.1
+136     $PWD/reads/SRR6024849_2.fastq   Italy   Female  62      22.1
+137     $PWD/reads/SRR6024850_1.fastq   Italy   Female  44      23.1
+138     $PWD/reads/SRR6024850_2.fastq   Italy   Female  44      23.1
+139     $PWD/reads/SRR6024851_1.fastq   Italy   Female  63      23.7
+140     $PWD/reads/SRR6024851_2.fastq   Italy   Female  63      23.7
+141     $PWD/reads/SRR6024852_1.fastq   Italy   Female  62      23.2
+142     $PWD/reads/SRR6024852_2.fastq   Italy   Female  62      23.2
+143     $PWD/reads/SRR6024853_1.fastq   Italy   Male    35      24.7
+144     $PWD/reads/SRR6024853_2.fastq   Italy   Male    35      24.7
+145     $PWD/reads/SRR6024854_1.fastq   Italy   Male    38      22.2
+146     $PWD/reads/SRR6024854_2.fastq   Italy   Male    38      22.2
+147     $PWD/reads/SRR6024855_1.fastq   Italy   Male    42      24.2
+148     $PWD/reads/SRR6024855_2.fastq   Italy   Male    42      24.2
+149     $PWD/reads/SRR6024856_1.fastq   Italy   Male    38      22.1
+150     $PWD/reads/SRR6024856_2.fastq   Italy   Male    38      22.1
+151     $PWD/reads/SRR6024857_1.fastq   Italy   Male    58      22.6
+152     $PWD/reads/SRR6024857_2.fastq   Italy   Male    58      22.6
+153     $PWD/reads/SRR6024858_1.fastq   Italy   Male    51      20.5
+154     $PWD/reads/SRR6024858_2.fastq   Italy   Male    51      20.5
+155     $PWD/reads/SRR6024859_1.fastq   Italy   Male    56      25.8
+156     $PWD/reads/SRR6024859_2.fastq   Italy   Male    56      25.8
+157     $PWD/reads/SRR6024860_1.fastq   Italy   Male    60      19.4
+158     $PWD/reads/SRR6024860_2.fastq   Italy   Male    60      19.4
+159     $PWD/reads/SRR6024861_1.fastq   Italy   Male    46      24.8
+160     $PWD/reads/SRR6024861_2.fastq   Italy   Male    46      24.8
+161     $PWD/reads/SRR6024862_1.fastq   Italy   Male    63      23.6
+162     $PWD/reads/SRR6024862_2.fastq   Italy   Male    63      23.6
+

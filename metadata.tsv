@@ -1,0 +1,100 @@
+sample-id       absolute-filepath       Country Sex     Host age        BMI
+0       $PWD/reads/ERR1091615.fastq     Netherlands     Female  40      24.39
+1       $PWD/reads/ERR365906.fastq      Finland Male    71
+2       $PWD/reads/ERR365907.fastq      Finland Female  58
+3       $PWD/reads/ERR365908.fastq      Finland Male    53
+4       $PWD/reads/ERR1417424.fastq     Netherlands     Male    54      19.66
+5       $PWD/reads/ERR1417477.fastq     Sweden  Female  38      26.95
+6       $PWD/reads/ERR1458809.fastq     Belgium Male    59      24.86
+7       $PWD/reads/ERR1458936.fastq     Denmark Female  62      22.41
+8       $PWD/reads/ERR1459034.fastq     Spain   Male    71      23.44
+9       $PWD/reads/ERR1459035.fastq     Spain   Male    71      23.44
+10      $PWD/reads/ERR1842690.fastq     France  Male    42      26.58
+11      $PWD/reads/ERR1842739.fastq     Germany Male    55      26.04
+12      $PWD/reads/ERR1843624.fastq     Sweden  Female  27      19.82
+13      $PWD/reads/ERR1843812.fastq     Sweden  Female  54      19.95
+14      $PWD/reads/ERR1854808.fastq     Germany Male    68      25.31
+15      $PWD/reads/ERR2056923.fastq     Germany Male    58      24.57
+16      $PWD/reads/ERR2057080.fastq     Sweden  Male    35      22.64
+17      $PWD/reads/ERR2091836.fastq     Belgium Male    37      30.76
+18      $PWD/reads/ERR2091912.fastq     Sweden  Male    66      27.74
+19      $PWD/reads/ERR2091929.fastq     France  Male    40      20.28
+20      $PWD/reads/ERR2091930.fastq     France  Male    40      20.28
+21      $PWD/reads/ERR2091946.fastq     France  Male    49      22.16
+22      $PWD/reads/ERR2092040.fastq     Belgium Male    31      23.77
+23      $PWD/reads/ERR365835.fastq      Finland Male    73
+24      $PWD/reads/ERR365836.fastq      Finland Male    78
+25      $PWD/reads/ERR365837.fastq      Finland Female  66
+26      $PWD/reads/ERR365838.fastq      Finland Male    69
+27      $PWD/reads/ERR365839.fastq      Finland Female  73
+28      $PWD/reads/ERR365840.fastq      Finland Male    56
+29      $PWD/reads/ERR365841.fastq      Finland Male    59
+30      $PWD/reads/ERR365842.fastq      Finland Male    51
+31      $PWD/reads/ERR365843.fastq      Finland Male    65
+32      $PWD/reads/ERR365844.fastq      Finland Female  63
+33      $PWD/reads/ERR365845.fastq      Finland Female  75
+34      $PWD/reads/ERR1315958.fastq     Finland Female  46      0.0
+35      $PWD/reads/ERR365846.fastq      Finland Female  70
+36      $PWD/reads/ERR365847.fastq      Finland Female  62
+37      $PWD/reads/ERR365848.fastq      Finland Male    51
+38      $PWD/reads/ERR365849.fastq      Finland Male    78
+39      $PWD/reads/ERR365850.fastq      Finland Female  66
+40      $PWD/reads/ERR365852.fastq      Finland Male    77
+41      $PWD/reads/ERR365853.fastq      Finland Male    64
+42      $PWD/reads/ERR365854.fastq      Finland Female  60
+43      $PWD/reads/ERR365855.fastq      Finland Male    74
+44      $PWD/reads/ERR1389653.fastq     Netherlands     Male    44      23.29
+45      $PWD/reads/ERR365856.fastq      Finland Male    62
+46      $PWD/reads/ERR365857.fastq      Finland Male    67
+47      $PWD/reads/ERR365858.fastq      Finland Female  58
+48      $PWD/reads/ERR365859.fastq      Finland Male    56
+49      $PWD/reads/ERR365860.fastq      Finland Female  73
+50      $PWD/reads/ERR365861.fastq      Finland Male    55
+51      $PWD/reads/ERR365862.fastq      Finland Male    74
+52      $PWD/reads/ERR365863.fastq      Finland Female  70
+53      $PWD/reads/ERR365864.fastq      Finland Female  65
+54      $PWD/reads/ERR365865.fastq      Finland Female  64
+55      $PWD/reads/ERR1389675.fastq     France  Female  33      21.67
+56      $PWD/reads/ERR365866.fastq      Finland Male    57
+57      $PWD/reads/ERR365867.fastq      Finland Female  52
+58      $PWD/reads/ERR365868.fastq      Finland Male    66
+59      $PWD/reads/ERR365869.fastq      Finland Male    75
+60      $PWD/reads/ERR365870.fastq      Finland Female  61
+61      $PWD/reads/ERR365871.fastq      Finland Male    56
+62      $PWD/reads/ERR365872.fastq      Finland Female  68
+63      $PWD/reads/ERR365873.fastq      Finland Male    57
+64      $PWD/reads/ERR365874.fastq      Finland Male    63
+65      $PWD/reads/ERR365875.fastq      Finland Female  61
+66      $PWD/reads/ERR1389712.fastq     Belgium Male    59      24.86
+67      $PWD/reads/ERR365876.fastq      Finland Female  67
+68      $PWD/reads/ERR365877.fastq      Finland Female  64
+69      $PWD/reads/ERR365878.fastq      Finland Female  75
+70      $PWD/reads/ERR365879.fastq      Finland Male    68
+71      $PWD/reads/ERR365880.fastq      Finland Male    62
+72      $PWD/reads/ERR365881.fastq      Finland Female  54
+73      $PWD/reads/ERR365882.fastq      Finland Female  55
+74      $PWD/reads/ERR365883.fastq      Finland Male    71
+75      $PWD/reads/ERR365884.fastq      Finland Male    67
+76      $PWD/reads/ERR365885.fastq      Finland Female  58
+77      $PWD/reads/ERR1389713.fastq     Belgium Male    59      24.86
+78      $PWD/reads/ERR365886.fastq      Finland Female  67
+79      $PWD/reads/ERR365887.fastq      Finland Male    69
+80      $PWD/reads/ERR365888.fastq      Finland Female  66
+81      $PWD/reads/ERR365889.fastq      Finland Male    71
+82      $PWD/reads/ERR365890.fastq      Finland Male    58
+83      $PWD/reads/ERR365891.fastq      Finland Male    64
+84      $PWD/reads/ERR365892.fastq      Finland Male    63
+85      $PWD/reads/ERR365893.fastq      Finland Female  56
+86      $PWD/reads/ERR365894.fastq      Finland Female  69
+87      $PWD/reads/ERR365895.fastq      Finland Female  67
+88      $PWD/reads/ERR1389847.fastq     Germany Male    61      26.09
+89      $PWD/reads/ERR365896.fastq      Finland Female  66
+90      $PWD/reads/ERR365898.fastq      Finland Male    70
+91      $PWD/reads/ERR365899.fastq      Finland Female  64
+92      $PWD/reads/ERR365900.fastq      Finland Female  62
+93      $PWD/reads/ERR365901.fastq      Finland Female  63
+94      $PWD/reads/ERR365902.fastq      Finland Female  68
+95      $PWD/reads/ERR365904.fastq      Finland Female  57
+96      $PWD/reads/ERR365905.fastq      Finland Male    66
+97      $PWD/reads/ERR1389935.fastq     Belgium Male    68      18.94
+
