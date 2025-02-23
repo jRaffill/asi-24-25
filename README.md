@@ -8,7 +8,8 @@ Basic outline:
 * Draw conclusions 🕺
 
 ## Steps: 
-_Note: after steps that involve changing the metadata, you may have to check and manually add the 'sample-id' column title_
+_Note: after steps that involve changing the metadata, you may have to check and manually add the 'sample-id' column title_  
+_Note: .qzv files can be viewed using [qiime2 viewer](https://view.qiime2.org/)_
 1. Fetch data from [gmrepo](https://gmrepo.humangut.info/)
    * Phenotype "healthy," QC status "Good runs," experiment type "Amplicon," at least 18 years old, from one of the countries in the EU
    * See file gmrepo_list.txt
